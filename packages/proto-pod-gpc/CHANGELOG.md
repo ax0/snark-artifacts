@@ -1,5 +1,11 @@
 # @pcd/proto-pod-gpc-artifacts
 
+## 0.4.0
+
+### Minor Changes
+
+- Refactor circuits to create NumericValue module
+
 ## 0.3.0
 
 ### Minor Changes
