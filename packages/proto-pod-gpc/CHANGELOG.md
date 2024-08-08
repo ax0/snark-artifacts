@@ -1,5 +1,11 @@
 # @pcd/proto-pod-gpc-artifacts
 
+## 0.5.0
+
+### Minor Changes
+
+- Add support for signed integers
+
 ## 0.4.0
 
 ### Minor Changes
