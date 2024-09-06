@@ -1,5 +1,11 @@
 # @pcd/proto-pod-gpc-artifacts
 
+## 0.6.0
+
+### Minor Changes
+
+- Add notInRange constraints
+
 ## 0.5.0
 
 ### Minor Changes
