@@ -1,5 +1,11 @@
 # @pcd/proto-pod-gpc-artifacts
 
+## 0.7.0
+
+### Minor Changes
+
+- Add content ID as virtual entry
+
 ## 0.6.0
 
 ### Minor Changes
