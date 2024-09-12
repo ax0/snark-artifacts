@@ -1,5 +1,11 @@
 # @pcd/proto-pod-gpc-artifacts
 
+## 0.8.0
+
+### Minor Changes
+
+- Add POD entry inequality checks
+
 ## 0.7.0
 
 ### Minor Changes
