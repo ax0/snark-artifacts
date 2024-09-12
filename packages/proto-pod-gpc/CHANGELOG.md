@@ -1,5 +1,11 @@
 # @pcd/proto-pod-gpc-artifacts
 
+## 0.9.0
+
+### Minor Changes
+
+- Add Semaphore V4 module
+
 ## 0.8.0
 
 ### Minor Changes
