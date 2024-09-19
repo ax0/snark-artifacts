@@ -1,5 +1,11 @@
 # @pcd/proto-pod-gpc-artifacts
 
+## 0.10.0
+
+### Minor Changes
+
+- Add POD uniqueness module
+
 ## 0.9.0
 
 ### Minor Changes
