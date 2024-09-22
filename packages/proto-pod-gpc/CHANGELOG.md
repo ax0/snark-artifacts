@@ -1,5 +1,11 @@
 # @pcd/proto-pod-gpc-artifacts
 
+## 0.11.0
+
+### Minor Changes
+
+- Add entry inequality module
+
 ## 0.10.0
 
 ### Minor Changes
