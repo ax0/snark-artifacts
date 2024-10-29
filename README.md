@@ -48,8 +48,8 @@ to the `snark-artifacts` repo.
 
 ```sh
   cd zupass/packages/lib/gpcircuits
-  yarn gen-test-artifacts
-  yarn copy-test-to-snark-artifacts
+  yarn gen-artifacts
+  yarn copy-snark-artifacts
   cd ../../../../snark-artifacts
   git checkout -b your-experimental-branch-name
   git commit . -m "test artifacts"
