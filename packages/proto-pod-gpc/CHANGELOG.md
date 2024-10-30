@@ -1,5 +1,11 @@
 # @pcd/proto-pod-gpc-artifacts
 
+## 0.12.0
+
+### Minor Changes
+
+- Add more circuit configurations
+
 ## 0.11.0
 
 ### Minor Changes
